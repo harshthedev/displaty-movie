@@ -1,2 +1,2 @@
-# displaty-movie
+# display-movie
 type movie name inside search-bar
